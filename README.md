@@ -8,3 +8,5 @@ Can load a document, txt files.
 
 
 Last thing to do is committ to and sync in source file.
+
+Quick sheet on https://www.markdownguide.org/cheat-sheet
